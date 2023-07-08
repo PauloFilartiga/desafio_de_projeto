@@ -1,0 +1,26 @@
+# SABORES :pizza:
+
+### **Quatro Queijos** : 
+
+- Molho de tomate fresco, mussarela especial, camada de catupiry, provolone, salpicado com gorgonzola, orégano e azeitonas pretas.
+
+### Frango com catupiry :
+
+- Molho de tomate fresco, peito de frango desfiado levemente temperado, coberto com catupiry, orégano e azeitonas pretas.
+
+### Marguerita :
+
+- Molho de tomate fresco, mussarela especial, rodelas de tomate, salpicada de parmesão, manjericão fresco, orégano e azeitonas pretas.
+
+### Calabresa :
+
+- Molho de tomate fresco, calabresa especial fatiada, rodelas de cebola, orégano e azeitonas pretas.
+
+### Mussarela :
+
+- Molho de tomate fresco, cobertura de mussarela especial, orégano e azeitonas pretas.
+
+### Sonho de Valsa :
+
+- Nutella e bombom sonho de valsa ou ouro branco picado.
+
